@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "db920f9cd832096a5195",
-    "url": "/static/css/main.2a8c0f3c.chunk.css"
+    "revision": "f88dca697c6a8e556467",
+    "url": "/static/css/main.dd087804.chunk.css"
   },
   {
-    "revision": "db920f9cd832096a5195",
-    "url": "/static/js/main.db920f9c.chunk.js"
+    "revision": "f88dca697c6a8e556467",
+    "url": "/static/js/main.f88dca69.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "be92cf6cfb766248c224",
-    "url": "/static/css/2.80a104d3.chunk.css"
+    "revision": "affab99b058e3341ef11",
+    "url": "/static/css/2.2f06bd2c.chunk.css"
   },
   {
-    "revision": "be92cf6cfb766248c224",
-    "url": "/static/js/2.be92cf6c.chunk.js"
+    "revision": "affab99b058e3341ef11",
+    "url": "/static/js/2.affab99b.chunk.js"
   },
   {
     "revision": "3285eb4f97019ee027550023def605e7",
@@ -52,15 +52,19 @@ self.__precacheManifest = [
     "url": "/static/media/add-button.23464d55.svg"
   },
   {
-    "revision": "bac9ce34aaa102e71bf3ba9fe48fc2a2",
-    "url": "/static/media/signature-preview.bac9ce34.svg"
-  },
-  {
     "revision": "27c6db463116ff99140475304ac5ac23",
     "url": "/static/media/scanner-preview.27c6db46.svg"
   },
   {
-    "revision": "b024c39b39b8fb8c9d3f1a5ba6e89d1a",
+    "revision": "bac9ce34aaa102e71bf3ba9fe48fc2a2",
+    "url": "/static/media/signature-preview.bac9ce34.svg"
+  },
+  {
+    "revision": "0393d9feaaab662a87592b9bff879aaa",
+    "url": "/static/media/signup-bg.0393d9fe.png"
+  },
+  {
+    "revision": "869691e1d07790696fbea28e165db96c",
     "url": "/index.html"
   }
 ];
